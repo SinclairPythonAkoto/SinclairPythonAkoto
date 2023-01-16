@@ -21,10 +21,10 @@
 </br> 
 </div>
 
-## Page Views
+<!-- ## Page Views
 <div>
  <p>
   This displays how many times my profile has been visted, since 20:15 GMT 16/01/2023.
  </p>
  <a href="http://www.web-counter.net" title="click counter"><img src="http://www.web-counter.net/count_20091204.php?c=NJfOyisK7pB" style="border:0;padding:0;margin:0;" alt="click counter"></a><br/><font size="1" face="Arial"><a href="http://de.web-counter.net" title="Besucherzähler">Besucherzähler</a><br/><a href="http://www.web-counter.net" title="click counter">click counter</a></font>
-</div>
+</div> -->
