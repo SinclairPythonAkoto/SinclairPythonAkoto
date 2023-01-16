@@ -2,13 +2,16 @@
 </br>
 
  <div>
-  <a href="https://github.com/SinclairPythonAkoto/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SinclairPythonAkoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  <a href="https://github.com/SinclairPythonAkoto">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagrundy&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eagrundy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
  ## Commitments
  <p>View all my contributions made within the last year.</p>
 <a href=#><img src="contributions.svg"></a>
+ 
+ ![Snake animation](https://github.com/SinclairPythonAkoto/SinclairPythonAkoto/contributions.svg)
   
 </br>
 
@@ -21,10 +24,3 @@
 </br> 
 </div>
 
-<!-- ## Page Views
-<div>
- <p>
-  This displays how many times my profile has been visted, since 20:15 GMT 16/01/2023.
- </p>
- <a href="http://www.web-counter.net" title="click counter"><img src="http://www.web-counter.net/count_20091204.php?c=NJfOyisK7pB" style="border:0;padding:0;margin:0;" alt="click counter"></a><br/><font size="1" face="Arial"><a href="http://de.web-counter.net" title="Besucherzähler">Besucherzähler</a><br/><a href="http://www.web-counter.net" title="click counter">click counter</a></font>
-</div> -->
